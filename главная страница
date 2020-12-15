@@ -1,0 +1,16 @@
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>background-color</title>
+  <style>
+   body{background-color: #F97CCB;} 
+   h1 {background: #FF61C6; color: white; padding: 2px;}
+   p {background-color: black; color: white;} 
+ </head>
+    </style> 
+ </head>
+ <body link="black" vlink="#white"" alink="black" bgcolor="white"">
+ <img src="https://vk.com/doc300549958_581727001?hash=2c04fd1fc634e756c3&dl=0ff592527fa5a0dc2a" alt="Шапка">
+    
+<h1>Добро пожаловать на сайт Carpenoxx</h1>
+<p> Здесь собраны мои работы </p>
